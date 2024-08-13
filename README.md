@@ -1,0 +1,1 @@
+This project involves the creation of a website to share recipes.
